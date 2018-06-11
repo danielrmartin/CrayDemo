@@ -1,3 +1,4 @@
-appid=Cray-81812
+AppID=Cray-81812
 BuildType=Both
+deploy=QA
 Notify=dmartin@cloudbees.com
