@@ -21,5 +21,10 @@ This is a demo repo for Cray
 
 
 # Goals This Week
-I need to wrap up the Kubaroo project . 
-Work on the yard . Do a few other bits . 
+I need to wrap up the Kubaroo project .   
+
+Work on the yard .   
+Do a few other bits.  
+Hello .   
+Bye .   
+
