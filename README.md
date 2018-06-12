@@ -8,11 +8,14 @@ This is a demo repo for Cray
 
 
 
-Things to do
+## Things to do
 ============
 * create script to Generate teams automatically
 * Increase automation
 * Eat lunch
 
-Things done today
------------------
+## Things done today
+- Meetings
+- Pipeline work
+- Demo
+- Notes
