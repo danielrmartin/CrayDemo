@@ -1,7 +1,12 @@
 # CrayDemo
 
 This is a demo repo for Cray
-## This is great work
+## Heading 2 
+### Heading 3
+#### Heading 4
+
+
+
 
 Things to do
 ============
