@@ -9,7 +9,6 @@ This is a demo repo for Cray
 
 
 ## Things to do
-============
 * create script to Generate teams automatically
 * Increase automation
 * Eat lunch
@@ -19,3 +18,8 @@ This is a demo repo for Cray
 - Pipeline work
 - Demo
 - Notes
+
+
+# Goals This Week
+I need to wrap up the Kubaroo project . 
+Work on the yard . Do a few other bits . 
